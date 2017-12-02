@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5265703280",
+    "project_id": "androidlab3-187821"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5265703280:android:2072ab2a1bd99c2b",
+        "android_client_info": {
+          "package_name": "com.example.natei.androidlab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5265703280-4cdsicgjgmedi3cbe8e670e9h80r7ust.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.natei.androidlab3",
+            "certificate_hash": "bbff9ec0c73a5e30346dc961eaafc5feb2ddadc3"
+          }
+        },
+        {
+          "client_id": "5265703280-uv3qvj4lnuib3a9182vcr0e010d1pe5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJwCRnGaGJHx4bTOviIuzPhPx9x3XYsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
